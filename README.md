@@ -5,3 +5,7 @@ Repo created for learning basic navigation
 Major commannds are listed below:
 -1.clone
 -2.add
+-3. commit
+-4. pull
+-5. push
+-6. branch
